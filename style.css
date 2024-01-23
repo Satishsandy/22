@@ -1,0 +1,11 @@
+#di{
+    height: 80px;
+    width: 60px;
+    background-color: chocolate;
+    border: 5px double black;
+}
+#hideme{
+    font-size: 40px;
+    background-color: darkolivegreen;
+  display: none;
+}
